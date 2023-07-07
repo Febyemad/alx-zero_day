@@ -1,2 +1,2 @@
- README.md
-updated
+echo "alx school "
+
